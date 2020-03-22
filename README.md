@@ -10,3 +10,6 @@ Structured Light Scanner including two digital cameras and one projector
 Resulting Point Cloud
 
 ![](Images/Point%20Cloud.png)
+
+# Reference
+How to cite: Pashaei, M. and Mousavi, S. M.: IMPLEMENTATION OF A LOW COST STRUCTURED LIGHT SCANNER, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XL-5/W2, 477–482, https://doi.org/10.5194/isprsarchives-XL-5-W2-477-2013, 2013.
