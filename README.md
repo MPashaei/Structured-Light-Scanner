@@ -7,7 +7,7 @@ Structured Light Scanner including two digital cameras and one projector
 
 ![](Images/Object%20Coding%20and%20Scanning.png)
 
-Resulting Point Cloud
+Scan Lines Extraction and Resulting Point Cloud
 
 ![](Images/Point%20Cloud.png)
 
